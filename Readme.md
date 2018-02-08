@@ -1,5 +1,7 @@
 # 个人实用小工具
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/runfan/toolkit.svg)](https://greenkeeper.io/)
+
 ```shell
 git clone https://github.com/runfan/toolkit.git
 cd toolkit
